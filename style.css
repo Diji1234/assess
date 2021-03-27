@@ -1,0 +1,31 @@
+.first{
+    height: 300px;
+}
+.second{
+    height: 200px;
+}
+/* .container{
+    padding: 1rem;
+    border: 2px solid;
+
+} */
+.step{
+    border: 3px solid white;
+    height: 250px;
+}
+.col-lg-2{
+    height: 250px;
+    border: 3px solid white;
+}
+.right{
+    float:right;
+}
+.bolu{
+    height: 100px;
+}
+.button-outline-dark{
+    margin-left: 20px;
+}
+.women{
+    margin-right: 50px;
+}
